@@ -1,0 +1,26 @@
+{
+  "name": "angular7-pwa-app",
+  "version": "1.0.0",
+  "description": "test PWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunodecamus/angular7-pwa-app.git"
+  },
+  "keywords": [
+    "pwa",
+    "angular7"
+  ],
+  "author": "Bruno Decamus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunodecamus/angular7-pwa-app/issues"
+  },
+  "homepage": "https://github.com/brunodecamus/angular7-pwa-app#readme",
+  "dependencies": {
+    "@angular/cli": "^7.3.10"
+  }
+}
